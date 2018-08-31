@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Custom_Notification_Badge_Universal_Handling : NSObject
+@end
+@implementation PodsDummy_Pods_Custom_Notification_Badge_Universal_Handling
+@end
